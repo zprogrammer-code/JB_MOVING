@@ -1,15 +1,14 @@
-import logo from './logo.svg';
+
 
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="My files/Downloads/Jacobs Brothers Moving asnd storage.png" alt="" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        hey everyone
         <a 
           className="App-link"
           href="https://reactjs.org"
