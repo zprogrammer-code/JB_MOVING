@@ -1,15 +1,14 @@
-
-
+import logo from "/home/zprogrammercode/jb_moving/src/Assets/images/Jacobs Brothers Moving asnd storage.png";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="My files/Downloads/Jacobs Brothers Moving asnd storage.png" alt="" />
+        <img src={logo} alt="" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a 
+        <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
