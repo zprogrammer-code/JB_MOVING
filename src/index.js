@@ -2,11 +2,11 @@ import ReactDOM from "react-dom/client";
 import reportWebVitals from "./reportWebVitals";
 import React from "react";
 import "./app.css";
-import App from "./App";
+import Main from "/home/zprogrammercode/jb_moving/src/Pages/Main/main.jsx";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <Main />
   </React.StrictMode>
 );
 
