@@ -1,9 +1,9 @@
-import React from "react";
+import { React } from "react";
 import logo from "/home/zprogrammercode/jb_moving/src/Assets/images/Jacobs Brothers Moving asnd storage.png";
 
 export default function Header() {
   <div>
-    <a alt="logo" href="">
+    <a alt="logo" href="/#">
       {logo}
     </a>
     <nav role="navigation">
